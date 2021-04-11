@@ -27,7 +27,5 @@
 	// "postCreateCommand": "yarn install",
 
 	// Comment out connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
-	// This is commented out to make doing experiments easier since doing operation outside the mounted
-	// locations is not permitted.
-	// "remoteUser": "node"
+	"remoteUser": "node"
 }
